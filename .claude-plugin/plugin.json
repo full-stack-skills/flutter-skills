@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/flutter-skills",
-  "repository": "https://github.com/full-statck-skills/flutter-skills",
+  "homepage": "https://github.com/full-stack-skills/flutter-skills",
+  "repository": "https://github.com/full-stack-skills/flutter-skills",
   "source": "./",
   "skills": [
     "./skills/flutter-project-creater",
