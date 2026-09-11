@@ -1,7 +1,7 @@
 ---
 name: flutter
 description: Provides comprehensive guidance for Flutter development including widgets, state management, navigation, platform channels, and mobile app development. Use when the user asks about Flutter, needs to create Flutter applications, implement Flutter widgets, or work with Flutter features.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
